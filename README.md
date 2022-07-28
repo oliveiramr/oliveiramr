@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Swift and how to build great apps for apple devices.
-- 👨🏻‍💻📲 Open for Jr oportunities
+- 👨🏻‍💻📲 Open for oportunities
 - 📫 How to reach me: murilo.dev@icloud.com
 
 
