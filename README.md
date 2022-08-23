@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 👨🏻‍💻📲 Open for oportunities
 - 📫 How to reach me: murilo.dev@icloud.com
 
 
